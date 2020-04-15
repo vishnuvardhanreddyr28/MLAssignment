@@ -266,12 +266,16 @@ class kmeans():
         
 
 
+        
+
+#Question-1
 
 #model=climb_steps(60,250,[])
 #model.probability_value()
 #model=climb_steps(60,250,[1,1,2,2,2,3,3,4,5,6])
 #model.probability_value()
 
+#LinearRegression
 
 #model=linear_regresssion(0.01,500)
 #model.generate_data(5,[-1,1,0.7,3,-2,-0.3]) 
@@ -279,12 +283,16 @@ class kmeans():
 #model.applyl1regularization(0.01)
 #model.applyl2regularization(0.01)
 
+#LogisticRegression
+
 #model=logistic_regression(0.01,500)
 #model.generate_data(5,[-1,1,0.7,3,-2,-0.3]) 
 #model.gradient_descent()
 #model.applyl1regularization(0.01)
 #model.applyl2regularization(0.01)
 
+
+#Kmeans
 
 #model=kmeans(100,3,10)
 #model.generate_data()
